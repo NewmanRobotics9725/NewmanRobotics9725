@@ -1,5 +1,5 @@
 ## Hi there 👋
-## THis is the new official Newman robotics page since 2025
+## This is the new official Newman robotics page since 2025
 
 <!--
 **NewmanRobotics9725/NewmanRobotics9725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
